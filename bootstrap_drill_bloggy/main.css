@@ -1,0 +1,19 @@
+.body {
+	background-color: rgba(35,233,25,.3);
+}
+
+body .cust-form {
+	background-color: #bdc3c7;
+}
+
+.cust-btn {
+	width: 100%;
+}
+.cust-field {
+	border-radius: 0;
+}
+
+.cust-navbar {
+	background-color: rgba(210, 200, 59, .6);
+
+}
